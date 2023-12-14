@@ -1,0 +1,13 @@
+name: oidc-decode
+version: 0.1.0
+
+authors:
+  - Nick Brandaleone <nbrand@mac.com>
+
+targets:
+  oidc-decode:
+    main: src/oidc-decode.cr
+
+crystal: '>= 1.10.1'
+
+license: MIT
